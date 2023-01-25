@@ -1,0 +1,21 @@
+C:\Users\BONN\source\repos\Puzy ToolBox\Puzy ToolBox\bin\Debug\Puzy ToolBox.exe.config
+C:\Users\BONN\source\repos\Puzy ToolBox\Puzy ToolBox\bin\Debug\Puzy ToolBox.exe
+C:\Users\BONN\source\repos\Puzy ToolBox\Puzy ToolBox\bin\Debug\Puzy ToolBox.pdb
+C:\Users\BONN\source\repos\Puzy ToolBox\Puzy ToolBox\obj\Debug\Puzy ToolBox.csproj.AssemblyReference.cache
+C:\Users\BONN\source\repos\Puzy ToolBox\Puzy ToolBox\obj\Debug\MainWindow.g.cs
+C:\Users\BONN\source\repos\Puzy ToolBox\Puzy ToolBox\obj\Debug\App.g.cs
+C:\Users\BONN\source\repos\Puzy ToolBox\Puzy ToolBox\obj\Debug\Puzy ToolBox_MarkupCompile.cache
+C:\Users\BONN\source\repos\Puzy ToolBox\Puzy ToolBox\obj\Debug\Puzy ToolBox_MarkupCompile.lref
+C:\Users\BONN\source\repos\Puzy ToolBox\Puzy ToolBox\obj\Debug\MainWindow.baml
+C:\Users\BONN\source\repos\Puzy ToolBox\Puzy ToolBox\obj\Debug\Puzy ToolBox.g.resources
+C:\Users\BONN\source\repos\Puzy ToolBox\Puzy ToolBox\obj\Debug\Puzy_ToolBox.Properties.Resources.resources
+C:\Users\BONN\source\repos\Puzy ToolBox\Puzy ToolBox\obj\Debug\Puzy ToolBox.csproj.GenerateResource.cache
+C:\Users\BONN\source\repos\Puzy ToolBox\Puzy ToolBox\obj\Debug\Puzy ToolBox.csproj.CoreCompileInputs.cache
+C:\Users\BONN\source\repos\Puzy ToolBox\Puzy ToolBox\obj\Debug\Puzy ToolBox.exe
+C:\Users\BONN\source\repos\Puzy ToolBox\Puzy ToolBox\obj\Debug\Puzy ToolBox.pdb
+C:\Users\BONN\source\repos\Puzy ToolBox\Puzy ToolBox\obj\Debug\App.baml
+C:\Users\BONN\source\repos\Puzy ToolBox\Puzy ToolBox\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\BONN\source\repos\Puzy ToolBox\Puzy ToolBox\obj\Debug\Puzy ToolBox.csproj.CopyComplete
+C:\Users\BONN\source\repos\Puzy ToolBox\Puzy ToolBox\bin\Debug\AltoHttp.dll
+C:\Users\BONN\source\repos\Puzy ToolBox\Puzy ToolBox\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BONN\source\repos\Puzy ToolBox\Puzy ToolBox\bin\Debug\Newtonsoft.Json.xml
